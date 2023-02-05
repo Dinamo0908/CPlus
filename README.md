@@ -1,2 +1,2 @@
 # CPlus
-Proyectoos desarrollados con C++.
+Proyectos desarrollados con C++.
